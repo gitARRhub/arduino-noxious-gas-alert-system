@@ -202,16 +202,16 @@ arduino-noxious-gas-alert-system/
 │
 ├── README.md
 ├── src/
-│   └── gas_alert_system.ino
+│   └── code.ino
 │
 ├── images/
-│   ├── full_setup.jpg
-│   ├── wiring.jpg
-│   └── working.jpg
+│   ├── complete_img.jpg
+│   ├── temperature_display.jpg
+│   ├── humidity_display.jpg
+│   └── gas_display.jpg
 │
 ├── circuit_diagram/
 │   ├── circuit.png
-│   └── schematic.pdf
 │
 ├── docs/
 │   ├── project_report.pdf
