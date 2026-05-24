@@ -1,0 +1,7 @@
+Arduino Uno
+MQ7
+DHT11
+DS3231
+16*2 LCD
+Buzzer
+Breadboard
